@@ -1,9 +1,11 @@
 **Chat with Your Documents**
+
 **Description:**
 This project focuses on building a chatbot interface that allows users to interact with documents in a conversational way. 
 The chatbot uses Natural Language Processing (NLP) to understand user questions and provide answers based on the content of the document.
 
 **Features**
+
 **1. Document Upload:**
 Supports multiple formats, including PDF, DOCX (Word), TXT, and CSV files.
 Automatically processes and extracts text from the uploaded documents.
